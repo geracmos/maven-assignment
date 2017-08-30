@@ -13,3 +13,6 @@ for an array list of Integer values.
         -   Methods max() and min() will return 0
         -   Methods mean() and median() will return Double.NaN
 
+2. A class that implements the Ascending Minima Algorithm.
+
+2.1 Assumptions:
