@@ -15,7 +15,6 @@ public class ArrayStats{
   protected int[] intArray;           // The input array of integers.
   protected double[] doubleArray;     // Auxiliary array of doubles, necessary for
                                       // calculating mean and median.
-
   /**
    * This is the constructor method of the class.
    *
